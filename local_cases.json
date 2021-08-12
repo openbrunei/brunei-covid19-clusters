@@ -1,0 +1,38 @@
+﻿[
+  {
+    "date" : "8\/12\/21",
+    "date_readable" : "12 Aug 2021",
+    "new_cases_local" : "49",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2668"
+  },
+  {
+    "date" : "8\/11\/21",
+    "date_readable" : "11 Aug 2021",
+    "new_cases_local" : "54",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2639"
+  },
+  {
+    "date" : "8\/10\/21",
+    "date_readable" : "10 Aug 2021",
+    "new_cases_local" : "32",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2626"
+  },
+  {
+    "date" : "8\/9\/21",
+    "date_readable" : "9 Aug 2021",
+    "new_cases_local" : "38",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2595"
+  },
+  {
+    "date" : "8\/8\/21",
+    "date_readable" : "8 Aug 2021",
+    "new_cases_local" : "15",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2557"
+  },
+  {
+    "date" : "8\/7\/21",
+    "date_readable" : "7 Aug 2021",
+    "new_cases_local" : "7",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2512"
+  }
+]
