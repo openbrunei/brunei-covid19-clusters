@@ -1,5 +1,5 @@
 
-# Weekly new cases in Brunei Covid-19 clusters, Fri 20 Aug 2021
+# Weekly Charts: New cases in Brunei Covid-19 clusters, Fri 20 Aug 2021
 
 For more info: [https://github.com/openbrunei/brunei-covid19-clusters][1]
 
@@ -7,6 +7,8 @@ Sources: [https://t.me/govbnofficial]()
 Compiled by: Hazirah M [@possiblyzebra][3] ([Contact][4])
 Charts: [https://tweetable-charts.agiliq.com/][5]
 Additional text cleanup: [https://www.browserling.com/tools/][6]
+
+Link to Daily Charts: [https://github.com/openbrunei/brunei-covid19-clusters/blob/main/charts\_clusters.md][7]
 
 ## Daily new community cases, by week
 
@@ -147,3 +149,4 @@ Cluster names:
 [4]:	https://possiblyzebra.notion.site/Contact-Me-e88daff714834f3a9fac11413ed48b6
 [5]:	https://tweetable-charts.agiliq.com/
 [6]:	https://www.browserling.com/tools/
+[7]:	https://github.com/openbrunei/brunei-covid19-clusters/blob/main/charts_clusters.md

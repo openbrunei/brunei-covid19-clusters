@@ -1,4 +1,4 @@
-# Daily new cases in Brunei Covid-19 clusters, Fri 20 Aug 2021
+# Daily Charts: New cases in Brunei Covid-19 clusters, Fri 20 Aug 2021
 
 For more info: [https://github.com/openbrunei/brunei-covid19-clusters][1]
 
@@ -8,19 +8,22 @@ Charts: [https://tweetable-charts.agiliq.com/][5]
 Additional text cleanup: [https://www.browserling.com/tools/][6]
 
 ## Daily new community cases, 2nd wave
-  
-Week 2: 14 Aug to 20 Aug 2021
-Beginning of 2nd wave: 7 Aug 2021
 
-２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 197
-１９．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▋ 190
-１８．Ａｕｇ．２０２１．▉▉▉▉▊ 94
-１５．Ａｕｇ．２０２１．▉▉▉▉▏ 79
-１６．Ａｕｇ．２０２１．▉▉▉▎ 64
-１７．Ａｕｇ．２０２１．▉▉▉▏ 61
-１４．Ａｕｇ．２０２１．▉▉▏ 42
+**Beginning of 2nd wave:** 7 Aug 2021
 
-Weekly archive: [link]()
+### Week 3, 21 Aug to 27 Aug 2021
+
+### Week 2, 14 to 20 Aug 2021
+
+２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 197  
+１９．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▋ 190  
+１８．Ａｕｇ．２０２１．▉▉▉▉▊ 94  
+１５．Ａｕｇ．２０２１．▉▉▉▉▏ 79  
+１６．Ａｕｇ．２０２１．▉▉▉▎ 64  
+１７．Ａｕｇ．２０２１．▉▉▉▏ 61  
+１４．Ａｕｇ．２０２１．▉▉▏ 42  
+
+Weekly archive: [https://github.com/openbrunei/brunei-covid19-clusters/blob/main/charts\_weekly.md][7]
 
 ## Daily new cases per cluster, 2nd wave
 
@@ -45,13 +48,6 @@ Total, including 1st case (Case 477): 18
 Cluster reported new cases only once, on 15 Aug 2021
 Total, including 1st case (Case 495): 3
 
-### Cluster: 499
-Dates: 12 to 20 Aug 2021
-Total, including 1st case (Case 499): 7
-
-１３．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 3
-１２．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 3
-
 ### Cluster: 535
 Cluster reported new cases only once, on 15 Aug 2021
 Total, including 1st case (Case 535): 2
@@ -61,9 +57,10 @@ Cluster reported new cases only once, on 19 Aug 2021
 Total, including 1st case (Case 573): 2
 
 ### Cluster: 583
-Dates: 19 to 20 Aug 2021
-Total, including 1st case (Case 583): 11
+Dates: 19 to 21 Aug 2021
+Total, including 1st case (Case 583): 14
 
+２１．Ａｕｇ．２０２１．▉▉▉▉▉▉ 3
 ２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 5
 １９．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 5
 
@@ -77,6 +74,10 @@ Total, including 1st case (Case 635): 4
 ### Cluster: 884
 Cluster reported new cases only once, on 20 Aug 2021
 Total, including 1st case (Case 884): 5
+
+### Cluster: 1385
+Cluster reported new cases only once, on 21 Aug 2021
+Total: 4
 
 ### Cluster: ABCi
 Dates: 9 to 20 Aug 2021	
@@ -123,6 +124,7 @@ Previous cluster names: BSP, 499
 Dates: 12 to 20 Aug 2021
 Total: 32
 
+２１．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 8
 ２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▎ 5
 １９．Ａｕｇ．２０２１．▉▉▉▉▉▉▎ 5
 １８．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 8
@@ -156,11 +158,23 @@ Sub-clusters:
 １３．Ａｕｇ．２０２１．▏ 1
 １２．Ａｕｇ．２０２１．▎ 3
 
-### Cluster: Chung Hua KB
-Dates: 9 to 20 Aug 2021
-1st discovered case: No. 363, 8 Aug 2021
-Total: 199+1 (including 1st case)
+**Sub-Cluster: Champion 7 - Blue Titanium**
 
+２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 25
+２１．Ａｕｇ．２０２１．▊ 2
+
+**Sub-Cluster: Champion 7 - Platform**
+
+２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 10
+２１．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉ 9
+
+
+### Cluster: Chung Hua KB
+Dates: 9 to 21 Aug 2021
+1st discovered case: No. 363, 8 Aug 2021
+Total: 206+1 (including 1st case)
+
+２１．Ａｕｇ．２０２１．▉▉▍ 7
 ２０．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▎ 27
 １９．Ａｕｇ．２０２１．▉▉▏ 6
 １８．Ａｕｇ．２０２１．▉▉▉▉▉▋ 16
@@ -191,10 +205,11 @@ Total: 15+2 (including 1st cases)
 １２．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 6
 
 ### Cluster: IBTE KB
-Dates: 13 to 20 Aug 2021
+Dates: 13 to 21 Aug 2021
 1st discovered case: No. 448 and 563, 14 Aug 2021
-Total: 9+2 (including 1st cases)
+Total: 17+2 (including 1st cases)
 
+２１．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 8
 ２０．Ａｕｇ．２０２１．▉▉▋ 1
 １９．Ａｕｇ．２０２１．▉▉▉▉▉▉▉▉▉▉ 4
 １８．Ａｕｇ．２０２１．▉▉▉▉▉ 2
@@ -202,7 +217,6 @@ Total: 9+2 (including 1st cases)
 １６．Ａｕｇ．２０２１．▉▉▋ 1
 １５．Ａｕｇ．２０２１． 0
 １４．Ａｕｇ．２０２１．▉▉▋ 1
-１３．Ａｕｇ．２０２１． 0
 
 ### Cluster: Imigresen
 Dates: 11 to 20 Aug 2021
@@ -309,3 +323,4 @@ Total: 21+1 (including 1st cases)
 [4]:	https://possiblyzebra.notion.site/Contact-Me-e88daff714834f3a9fac11413ed48b6
 [5]:	https://tweetable-charts.agiliq.com/
 [6]:	https://www.browserling.com/tools/
+[7]:	https://github.com/openbrunei/brunei-covid19-clusters/blob/main/charts_weekly.md
