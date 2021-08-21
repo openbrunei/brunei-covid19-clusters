@@ -1,9 +1,920 @@
 ﻿[
   {
+    "cluster_name" : "Champion 7 - Platform",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "9",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 - Blue Titanium",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ (Block M)",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "8",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "8",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "7",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "583",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "1385",
+    "date" : "8\/21\/21",
+    "date_readable" : "21 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2832",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "27",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 - Blue Titanium",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "25",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "Champion 7 and Related Vessels",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 - Posh Elegance",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "Champion 7 and Related Vessels",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 - Platform",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "Champion 7 and Related Vessels",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 - Others",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "Champion 7 and Related Vessels",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "The Mall",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Imigresen",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "PA",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "6",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "Aker",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Al-Falah - Freda Radin",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "6",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ (Block M)",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "5",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "583",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "5",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "884",
+    "date" : "8\/20\/21",
+    "date_readable" : "20 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2819",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 and Related Vessels",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "98",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "6",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ (Block M)",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "5",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Aker",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "5",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Al-Falah - Freda Radin",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "5",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "The Mall",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "477",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Dragon Boat",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "573",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "583",
+    "date" : "8\/19\/21",
+    "date_readable" : "19 Aug 2021",
+    "new_cases" : "5",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2799",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "477",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Aker",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ (Block M)",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "8",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "BSP HQ",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7 and Related Vessels",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "22",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "Champion 7",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "16",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Dragon Boat",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "6",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Imigresen",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Lorong Tengah",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Starlodge",
+    "date" : "8\/18\/21",
+    "date_readable" : "18 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2780",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "11",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "9",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Dragon Boat",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Semporna Enak",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Al-Falah - Freda Radin",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "635",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "TOTAL",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "The Mall",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Aker",
+    "date" : "8\/17\/21",
+    "date_readable" : "17 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2763",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Semporna Enak",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "10",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Al-Falah - Freda Radin",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "477",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "635",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "SKH Gadong",
+    "date" : "8\/16\/21",
+    "date_readable" : "16 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2741",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "29",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "477",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "6",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Imigresen",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "TOTAL",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "495",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "535",
+    "date" : "8\/15\/21",
+    "date_readable" : "15 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2722",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Imigresen",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "7",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "477",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "4",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Al-Falah - Freda Radin",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Semporna Enak",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "TOTAL",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "BSP HQ",
+    "date" : "8\/14\/21",
+    "date_readable" : "14 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "FALSE",
+    "previous_cluster_name" : "499",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2706",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "499",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "ABCi",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Champion 7",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "1",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "16",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "Imigresen",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "TOTAL",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "451",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "3",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
+    "cluster_name" : "477",
+    "date" : "8\/13\/21",
+    "date_readable" : "13 Aug 2021",
+    "new_cases" : "2",
+    "new_cluster" : "TRUE",
+    "previous_cluster_name" : "",
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2687",
+    "source_url2" : ""
+  },
+  {
     "cluster_name" : "Chung Hua KB",
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "21",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -13,6 +924,7 @@
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "4",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -22,6 +934,7 @@
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "3",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -31,6 +944,7 @@
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "2",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -40,6 +954,7 @@
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "2",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -49,6 +964,7 @@
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "6",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -56,17 +972,19 @@
   {
     "cluster_name" : "499",
     "date" : "8\/12\/21",
-    "date_readable" : "12",
+    "date_readable" : "12 Aug 2021",
     "new_cases" : "3",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
-    "source_url1" : "Aug",
-    "source_url2" : "2021"
+    "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
+    "source_url2" : ""
   },
   {
     "cluster_name" : "Champion 7",
     "date" : "8\/12\/21",
     "date_readable" : "12 Aug 2021",
     "new_cases" : "3",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2668",
     "source_url2" : ""
@@ -76,6 +994,7 @@
     "date" : "8\/11\/21",
     "date_readable" : "11 Aug 2021",
     "new_cases" : "25",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2639",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSbrKsZhIaG\/"
@@ -85,6 +1004,7 @@
     "date" : "8\/11\/21",
     "date_readable" : "11 Aug 2021",
     "new_cases" : "8",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2639",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSbrKsZhIaG\/"
@@ -94,6 +1014,7 @@
     "date" : "8\/11\/21",
     "date_readable" : "11 Aug 2021",
     "new_cases" : "3",
+    "new_cluster" : "FALSE",
     "previous_cluster_name" : "Al-Falah",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2639",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSbrKsZhIaG\/"
@@ -103,6 +1024,7 @@
     "date" : "8\/11\/21",
     "date_readable" : "11 Aug 2021",
     "new_cases" : "1",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2639",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSbrKsZhIaG\/"
@@ -112,6 +1034,7 @@
     "date" : "8\/11\/21",
     "date_readable" : "11 Aug 2021",
     "new_cases" : "4",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2639",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSbrKsZhIaG\/"
@@ -121,6 +1044,7 @@
     "date" : "8\/10\/21",
     "date_readable" : "10 Aug 2021",
     "new_cases" : "9",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2626",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSZRPwqBIKV\/"
@@ -130,6 +1054,7 @@
     "date" : "8\/10\/21",
     "date_readable" : "10 Aug 2021",
     "new_cases" : "8",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2626",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSZRPwqBIKV\/"
@@ -139,6 +1064,7 @@
     "date" : "8\/10\/21",
     "date_readable" : "10 Aug 2021",
     "new_cases" : "4",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2626",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSZRPwqBIKV\/"
@@ -148,6 +1074,7 @@
     "date" : "8\/10\/21",
     "date_readable" : "10 Aug 2021",
     "new_cases" : "3",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2626",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSZRPwqBIKV\/"
@@ -157,6 +1084,7 @@
     "date" : "8\/10\/21",
     "date_readable" : "10 Aug 2021",
     "new_cases" : "2",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2626",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSZRPwqBIKV\/"
@@ -166,6 +1094,7 @@
     "date" : "8\/10\/21",
     "date_readable" : "10 Aug 2021",
     "new_cases" : "1",
+    "new_cluster" : "FALSE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2626",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSZRPwqBIKV\/"
@@ -175,6 +1104,7 @@
     "date" : "8\/9\/21",
     "date_readable" : "9 Aug 2021",
     "new_cases" : "4",
+    "new_cluster" : "",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2595",
     "source_url2" : "https:\/\/t.me\/govbnofficial\/2555"
@@ -184,6 +1114,7 @@
     "date" : "8\/9\/21",
     "date_readable" : "9 Aug 2021",
     "new_cases" : "29",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2595",
     "source_url2" : "https:\/\/t.me\/govbnofficial\/2555"
@@ -193,6 +1124,7 @@
     "date" : "8\/9\/21",
     "date_readable" : "9 Aug 2021",
     "new_cases" : "5",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2595",
     "source_url2" : "https:\/\/t.me\/govbnofficial\/2555"
@@ -202,6 +1134,7 @@
     "date" : "8\/8\/21",
     "date_readable" : "8 Aug 2021",
     "new_cases" : "5",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2557",
     "source_url2" : "https:\/\/t.me\/govbnofficial\/2555"
@@ -211,6 +1144,7 @@
     "date" : "8\/8\/21",
     "date_readable" : "8 Aug 2021",
     "new_cases" : "7",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2557",
     "source_url2" : "https:\/\/t.me\/govbnofficial\/2555"
@@ -220,6 +1154,7 @@
     "date" : "8\/7\/21",
     "date_readable" : "7 Aug 2021",
     "new_cases" : "5",
+    "new_cluster" : "TRUE",
     "previous_cluster_name" : "Starlodge",
     "source_url1" : "https:\/\/t.me\/govbnofficial\/2512",
     "source_url2" : "https:\/\/www.instagram.com\/p\/CSRUVT-hdRc\/"

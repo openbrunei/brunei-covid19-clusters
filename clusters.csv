@@ -1,26 +1,117 @@
-﻿cluster_name,previous_cluster_name,date,new_cases,date_readable,source_url1,source_url2
-Chung Hua KB,,8/12/21,21,12 Aug 2021,https://t.me/govbnofficial/2668
-ABCi,,8/12/21,4,12 Aug 2021,https://t.me/govbnofficial/2668
-Imigresen,,8/12/21,3,12 Aug 2021,https://t.me/govbnofficial/2668
-Semporna Enak,,8/12/21,2,12 Aug 2021,https://t.me/govbnofficial/2668
-TOTAL,,8/12/21,2,12 Aug 2021,https://t.me/govbnofficial/2668
-Dragon Boat,,8/12/21,6,12 Aug 2021,https://t.me/govbnofficial/2668
-499,,8/12/21,3,12,Aug,2021,12 Aug 2021,https://t.me/govbnofficial/2668
-Champion 7,,8/12/21,3,12 Aug 2021,https://t.me/govbnofficial/2668
-Chung Hua KB,,8/11/21,25,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/
-Semporna Enak,,8/11/21,8,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/
-Al-Falah - Freda Radin,Al-Falah,8/11/21,3,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/
-TOTAL,,8/11/21,1,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/
-Imigresen,,8/11/21,4,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/
-Semporna Enak,,8/10/21,9,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/
-Chung Hua KB,,8/10/21,8,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/
-Al-Falah,,8/10/21,4,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/
-ABCi,,8/10/21,3,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/
-TOTAL,,8/10/21,2,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/
-Starlodge,,8/10/21,1,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/
-TOTAL,,8/9/21,4,9 Aug 2021,https://t.me/govbnofficial/2595,https://t.me/govbnofficial/2555
-Chung Hua KB,,8/9/21,29,9 Aug 2021,https://t.me/govbnofficial/2595,https://t.me/govbnofficial/2555
-ABCi,,8/9/21,5,9 Aug 2021,https://t.me/govbnofficial/2595,https://t.me/govbnofficial/2555
-Al-Falah,,8/8/21,5,8 Aug 2021,https://t.me/govbnofficial/2557,https://t.me/govbnofficial/2555
-TOTAL,,8/8/21,7,8 Aug 2021,https://t.me/govbnofficial/2557,https://t.me/govbnofficial/2555
-Salah satu Pusat Pemantauan,Starlodge,8/7/21,5,7 Aug 2021,https://t.me/govbnofficial/2512,https://www.instagram.com/p/CSRUVT-hdRc/
+﻿date,cluster_name,previous_cluster_name,new_cases,date_readable,source_url1,source_url2,new_cluster
+8/21/21,Champion 7 - Platform,,9,21 Aug 2021,https://t.me/govbnofficial/2832,,
+8/21/21,Champion 7 - Blue Titanium,,2,21 Aug 2021,https://t.me/govbnofficial/2832,,
+8/21/21,BSP HQ (Block M),,8,21 Aug 2021,https://t.me/govbnofficial/2832,,
+8/21/21,IBTE KB,,8,21 Aug 2021,https://t.me/govbnofficial/2832,,
+8/21/21,Chung Hua KB,,7,21 Aug 2021,https://t.me/govbnofficial/2832,,
+8/21/21,583,,3,21 Aug 2021,https://t.me/govbnofficial/2832,,
+8/21/21,1385,,4,21 Aug 2021,https://t.me/govbnofficial/2832,,TRUE
+8/20/21,Chung Hua KB,,27,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,Champion 7 - Blue Titanium,Champion 7 and Related Vessels,25,20 Aug 2021,https://t.me/govbnofficial/2819,,FALSE
+8/20/21,Champion 7 - Posh Elegance,Champion 7 and Related Vessels,10,20 Aug 2021,https://t.me/govbnofficial/2819,,FALSE
+8/20/21,Champion 7 - Platform,Champion 7 and Related Vessels,10,20 Aug 2021,https://t.me/govbnofficial/2819,,FALSE
+8/20/21,Champion 7 - Others,Champion 7 and Related Vessels,1,20 Aug 2021,https://t.me/govbnofficial/2819,,FALSE
+8/20/21,The Mall,,10,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,Imigresen,,10,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,PA,Aker,6,20 Aug 2021,https://t.me/govbnofficial/2819,,FALSE
+8/20/21,Al-Falah - Freda Radin,,6,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,BSP HQ (Block M),,5,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,583,,5,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,ABCi,,3,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,IBTE KB,,1,20 Aug 2021,https://t.me/govbnofficial/2819,,
+8/20/21,884,,4,20 Aug 2021,https://t.me/govbnofficial/2819,,TRUE
+8/19/21,Champion 7 and Related Vessels,,98,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,Chung Hua KB,,6,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,BSP HQ (Block M),,5,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,Aker,,5,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,Al-Falah - Freda Radin,,5,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,IBTE KB,,4,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,The Mall,,4,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,477,,3,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,ABCi,,2,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,Dragon Boat,,1,19 Aug 2021,https://t.me/govbnofficial/2799,,
+8/19/21,573,,1,19 Aug 2021,https://t.me/govbnofficial/2799,,TRUE
+8/19/21,583,,5,19 Aug 2021,https://t.me/govbnofficial/2799,,TRUE
+8/18/21,477,,1,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,ABCi,,2,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,Aker,,2,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,BSP HQ (Block M),BSP HQ,8,18 Aug 2021,https://t.me/govbnofficial/2780,,FALSE
+8/18/21,Champion 7 and Related Vessels,Champion 7,22,18 Aug 2021,https://t.me/govbnofficial/2780,,FALSE
+8/18/21,Chung Hua KB,,16,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,Dragon Boat,,6,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,IBTE KB,,2,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,Imigresen,,1,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/18/21,Lorong Tengah,,3,18 Aug 2021,https://t.me/govbnofficial/2780,,TRUE
+8/18/21,Starlodge,,1,18 Aug 2021,https://t.me/govbnofficial/2780,,
+8/17/21,Champion 7,,11,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,Chung Hua KB,,9,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,BSP HQ,,3,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,Dragon Boat,,2,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,Semporna Enak,,1,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,ABCi,,1,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,Al-Falah - Freda Radin,,1,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,635,,1,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,TOTAL,,1,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/17/21,The Mall,,10,17 Aug 2021,https://t.me/govbnofficial/2763,,TRUE
+8/17/21,Aker,,3,17 Aug 2021,https://t.me/govbnofficial/2763,,
+8/16/21,ABCi,,4,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,Semporna Enak,,10,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,BSP HQ,,3,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,Chung Hua KB,,10,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,Champion 7,,4,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,Al-Falah - Freda Radin,,2,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,477,,1,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,IBTE KB,,1,16 Aug 2021,https://t.me/govbnofficial/2741,,
+8/16/21,635,,2,16 Aug 2021,https://t.me/govbnofficial/2741,,TRUE
+8/16/21,SKH Gadong,,2,16 Aug 2021,https://t.me/govbnofficial/2741,,TRUE
+8/15/21,Chung Hua KB,,29,15 Aug 2021,https://t.me/govbnofficial/2722,,
+8/15/21,477,,6,15 Aug 2021,https://t.me/govbnofficial/2722,,
+8/15/21,Imigresen,,4,15 Aug 2021,https://t.me/govbnofficial/2722,,
+8/15/21,Champion 7,,3,15 Aug 2021,https://t.me/govbnofficial/2722,,
+8/15/21,TOTAL,,1,15 Aug 2021,https://t.me/govbnofficial/2722,,
+8/15/21,BSP HQ,,1,15 Aug 2021,https://t.me/govbnofficial/2722,,
+8/15/21,495,,2,15 Aug 2021,https://t.me/govbnofficial/2722,,TRUE
+8/15/21,535,,1,15 Aug 2021,https://t.me/govbnofficial/2722,,TRUE
+8/14/21,Champion 7,,4,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,Imigresen,,7,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,477,,4,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,ABCi,,4,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,Chung Hua KB,,3,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,Al-Falah - Freda Radin,,1,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,Semporna Enak,,1,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,TOTAL,,1,14 Aug 2021,https://t.me/govbnofficial/2706,,
+8/14/21,IBTE KB,,1,14 Aug 2021,https://t.me/govbnofficial/2706,,TRUE
+8/14/21,BSP HQ,499,1,14 Aug 2021,https://t.me/govbnofficial/2706,,FALSE
+8/13/21,499,,3,13 Aug 2021,https://t.me/govbnofficial/2687,,
+8/13/21,ABCi,,2,13 Aug 2021,https://t.me/govbnofficial/2687,,
+8/13/21,Champion 7,,1,13 Aug 2021,https://t.me/govbnofficial/2687,,
+8/13/21,Chung Hua KB,,16,13 Aug 2021,https://t.me/govbnofficial/2687,,
+8/13/21,Imigresen,,3,13 Aug 2021,https://t.me/govbnofficial/2687,,
+8/13/21,TOTAL,,2,13 Aug 2021,https://t.me/govbnofficial/2687,,
+8/13/21,451,,3,13 Aug 2021,https://t.me/govbnofficial/2687,,TRUE
+8/13/21,477,,2,13 Aug 2021,https://t.me/govbnofficial/2687,,TRUE
+8/12/21,Chung Hua KB,,21,12 Aug 2021,https://t.me/govbnofficial/2668,,
+8/12/21,ABCi,,4,12 Aug 2021,https://t.me/govbnofficial/2668,,
+8/12/21,Imigresen,,3,12 Aug 2021,https://t.me/govbnofficial/2668,,
+8/12/21,Semporna Enak,,2,12 Aug 2021,https://t.me/govbnofficial/2668,,
+8/12/21,TOTAL,,2,12 Aug 2021,https://t.me/govbnofficial/2668,,
+8/12/21,Dragon Boat,,6,12 Aug 2021,https://t.me/govbnofficial/2668,,TRUE
+8/12/21,499,,3,12 Aug 2021,https://t.me/govbnofficial/2668,,TRUE
+8/12/21,Champion 7,,3,12 Aug 2021,https://t.me/govbnofficial/2668,,TRUE
+8/11/21,Chung Hua KB,,25,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/,
+8/11/21,Semporna Enak,,8,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/,
+8/11/21,Al-Falah - Freda Radin,Al-Falah,3,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/,FALSE
+8/11/21,TOTAL,,1,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/,
+8/11/21,Imigresen,,4,11 Aug 2021,https://t.me/govbnofficial/2639,https://www.instagram.com/p/CSbrKsZhIaG/,TRUE
+8/10/21,Semporna Enak,,9,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/,TRUE
+8/10/21,Chung Hua KB,,8,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/,
+8/10/21,Al-Falah,,4,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/,
+8/10/21,ABCi,,3,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/,
+8/10/21,TOTAL,,2,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/,
+8/10/21,Starlodge,,1,10 Aug 2021,https://t.me/govbnofficial/2626,https://www.instagram.com/p/CSZRPwqBIKV/,FALSE
+8/9/21,TOTAL,,4,9 Aug 2021,https://t.me/govbnofficial/2595,https://t.me/govbnofficial/2555,
+8/9/21,Chung Hua KB,,29,9 Aug 2021,https://t.me/govbnofficial/2595,https://t.me/govbnofficial/2555,TRUE
+8/9/21,ABCi,,5,9 Aug 2021,https://t.me/govbnofficial/2595,https://t.me/govbnofficial/2555,TRUE
+8/8/21,Al-Falah,,5,8 Aug 2021,https://t.me/govbnofficial/2557,https://t.me/govbnofficial/2555,TRUE
+8/8/21,TOTAL,,7,8 Aug 2021,https://t.me/govbnofficial/2557,https://t.me/govbnofficial/2555,TRUE
+8/7/21,Salah satu Pusat Pemantauan,Starlodge,5,7 Aug 2021,https://t.me/govbnofficial/2512,https://www.instagram.com/p/CSRUVT-hdRc/,TRUE
