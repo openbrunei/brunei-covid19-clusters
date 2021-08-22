@@ -1,5 +1,5 @@
 
-# Weekly Charts: New cases in Brunei Covid-19 clusters, Sat 21 Aug 2021
+# Weekly Charts: New cases in Brunei Covid-19 clusters, Sun 22 Aug 2021
 
 For more info: [https://github.com/openbrunei/brunei-covid19-clusters][1]
 
@@ -106,31 +106,49 @@ Total: 7
 ### Cluster: TOTAL
 First reported: 8 Aug 2021  
 Most recent date: 17 Aug 2021  
-1st discovered case: No. 345, 8 Aug 2021  
-Total: 21+1 (including 1st cases)  
+1st discovered case: No. 345, 8 Aug 2021
+Total: 21+1 (including 1st cases)
 
 １４．ｔｏ．２０．Ａｕｇ．▉▊ 3
 ７．ｔｏ．１３．Ａｕｇ．．▉▉▉▉▉▉▉▉▉▉ 18
 
 ## New clusters by end of week
 
+The cluster sizes here only reflect totals by the end of the week, in which they were first reported.
+
+Totals **do include** the first case(s) discovered in the cluster, if any such cases were recorded (as unlinked cases) on an earlier day. This is to better reflect total cluster size. But **do note** that these totals cannot be verified with MOH data, since MOH does not release total cluster sizes.
+
+### Week 3, 21 to 27 Aug 2021
+
+### Week 2, 14 to 20 Aug 2021
+
+Ｔｈｅ．Ｍａｌｌ．．．．．．▉▉▉▉▉▉▉▉▉▉ 25
+ＩＢＴＥ．ＫＢ．．．．．．．▉▉▉▉▊ 12
+５８３．．．．．．．．．．．▉▉▉▉▍ 11
+４９５．．．．．．．．．．．▉▉▍ 6
+６３５．．．．．．．．．．．▉▉▍ 6
+８８４．．．．．．．．．．．▉▉ 5
+ＳＫＨ．Ｇａｄｏｎｇ．．．．▉▉ 5
+５３５．．．．．．．．．．．▉▋ 4
+５７３．．．．．．．．．．．▉▋ 4
+Ｌｏｒｏｎｇ．Ｔｅｎｇａｈ．▉▋ 4
+
 ### Week 1, 7 to 13 Aug 2021
 
-Ｃｈｕｎｇ．Ｈｕａ．ＫＢ．．．．▉▉▉▉▉▉▉▉▉▉ 99
+Ｃｈｕｎｇ．Ｈｕａ．ＫＢ．．．．▉▉▉▉▉▉▉▉▉▉ 100
 Ｓｅｍｐｏｒｎａ．Ｅｎａｋ．．．▉▉ 19
-ＴＯＴＡＬ．．．．．．．．．．．▉▊ 18
-ＡＢＣｉ．．．．．．．．．．．．▉▍ 14
-Ａｌ－Ｆａｌａｈ．－．Ｆ．Ｒ．．▉▎ 12
-Ｉｍｉｇｒｅｓｅｎ．．．．．．．▉▏ 10
+ＴＯＴＡＬ．．．．．．．．．．．▉▉ 19
+ＡＢＣｉ．．．．．．．．．．．．▉▋ 15
+Ａｌ－Ｆａｌａｈ．－．Ｆ．Ｒ．．▉▎ 13
+Ｉｍｉｇｒｅｓｅｎ．．．．．．．▉▏ 11
 ４９９．．．．．．．．．．．．．▋ 6
 Ｓｔａｒｌｏｄｇｅ．．．．．．．▋ 6
 Ｃｈａｍｐｉｏｎ．７．．．．．．▍ 4
+４７７．．．．．．．．．．．．．▎ 3
 
 Cluster names:
 - 499, now called BSP HQ (Block M)
 - Champion 7, now called Champion 7 and Related Vessels
-
-### Week 2, 14 to 20 Aug 2021
 
 ## Archive of daily new community cases, by week
 
