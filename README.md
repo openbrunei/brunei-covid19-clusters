@@ -124,4 +124,4 @@ Website: [openbrunei.org][14]
 [13]:	https://possiblyzebra.notion.site/Contact-Me-e88daff714834f3a9fac11413ed48b6
 [14]:	http://openbrunei.org
 
-[image-1]:	file:///Users/buns/Documents/GitHub/brunei-covid19-clusters/assets/moh-sg_unlinked_retr2021-08-22.png
+[image-1]:	https://github.com/openbrunei/brunei-covid19-clusters/raw/main/assets/moh-sg_unlinked_retr2021-08-22.png
