@@ -1,0 +1,236 @@
+﻿[
+  {
+    "cluster_name" : "362",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "1"
+  },
+  {
+    "cluster_name" : "418",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "10"
+  },
+  {
+    "cluster_name" : "451",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "4"
+  },
+  {
+    "cluster_name" : "477",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "21"
+  },
+  {
+    "cluster_name" : "495",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "2"
+  },
+  {
+    "cluster_name" : "535",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "2"
+  },
+  {
+    "cluster_name" : "573",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "1"
+  },
+  {
+    "cluster_name" : "583",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "14"
+  },
+  {
+    "cluster_name" : "635",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "3"
+  },
+  {
+    "cluster_name" : "884",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "4"
+  },
+  {
+    "cluster_name" : "1328",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "5"
+  },
+  {
+    "cluster_name" : "1385",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "4"
+  },
+  {
+    "cluster_name" : "1597",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "16"
+  },
+  {
+    "cluster_name" : "1640",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "8"
+  },
+  {
+    "cluster_name" : "1888",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "12"
+  },
+  {
+    "cluster_name" : "2085",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "8"
+  },
+  {
+    "cluster_name" : "2262",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "6"
+  },
+  {
+    "cluster_name" : "[Unspecified Cluster Additions]",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "53"
+  },
+  {
+    "cluster_name" : "ABCi",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "41"
+  },
+  {
+    "cluster_name" : "Al-Falah - Freda Radin",
+    "cluster_name2" : "Al-Falah",
+    "cluster_name3" : "",
+    "est_cluster_size" : "43"
+  },
+  {
+    "cluster_name" : "BSP HQ (Block M)",
+    "cluster_name2" : "BSP HQ",
+    "cluster_name3" : "499",
+    "est_cluster_size" : "58"
+  },
+  {
+    "cluster_name" : "Champion 7",
+    "cluster_name2" : "Champion 7 and Related Vessels",
+    "cluster_name3" : "",
+    "est_cluster_size" : "146"
+  },
+  {
+    "cluster_name" : "Champion 7 - Blue Titanium",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "91"
+  },
+  {
+    "cluster_name" : "Champion 7 - Others",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "1"
+  },
+  {
+    "cluster_name" : "Champion 7 - Platform",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "34"
+  },
+  {
+    "cluster_name" : "Champion 7 - Posh Elegance",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "26"
+  },
+  {
+    "cluster_name" : "Chung Hua KB",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "275"
+  },
+  {
+    "cluster_name" : "Dragon Boat",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "19"
+  },
+  {
+    "cluster_name" : "IBTE KB",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "33"
+  },
+  {
+    "cluster_name" : "Imigresen",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "60"
+  },
+  {
+    "cluster_name" : "Jaya Hypermart",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "12"
+  },
+  {
+    "cluster_name" : "Lorong Tengah",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "3"
+  },
+  {
+    "cluster_name" : "PAS (Aker)",
+    "cluster_name2" : "PA",
+    "cluster_name3" : "Aker",
+    "est_cluster_size" : "24"
+  },
+  {
+    "cluster_name" : "Samima",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "20"
+  },
+  {
+    "cluster_name" : "Semporna Enak",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "35"
+  },
+  {
+    "cluster_name" : "SKH Gadong",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "22"
+  },
+  {
+    "cluster_name" : "Starlodge",
+    "cluster_name2" : "Salah satu Pusat Pemantauan",
+    "cluster_name3" : "",
+    "est_cluster_size" : "7"
+  },
+  {
+    "cluster_name" : "The Mall",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "43"
+  },
+  {
+    "cluster_name" : "TOTAL",
+    "cluster_name2" : "",
+    "cluster_name3" : "",
+    "est_cluster_size" : "28"
+  }
+]

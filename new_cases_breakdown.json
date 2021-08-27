@@ -1,5 +1,71 @@
 ﻿[
   {
+    "case_no_end" : "2380",
+    "case_no_start" : "2266",
+    "date" : "8\/27\/21",
+    "new_import_cases" : "3",
+    "new_local_cases" : "112",
+    "new_total_cases" : "115",
+    "new_unlinked_cases" : "59",
+    "prev_unlinked_now_linked" : "1",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2899"
+  },
+  {
+    "case_no_end" : "2265",
+    "case_no_start" : "2160",
+    "date" : "8\/26\/21",
+    "new_import_cases" : "0",
+    "new_local_cases" : "106",
+    "new_total_cases" : "106",
+    "new_unlinked_cases" : "47",
+    "prev_unlinked_now_linked" : "2",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2891"
+  },
+  {
+    "case_no_end" : "2159",
+    "case_no_start" : "1984",
+    "date" : "8\/25\/21",
+    "new_import_cases" : "0",
+    "new_local_cases" : "176",
+    "new_total_cases" : "176",
+    "new_unlinked_cases" : "88",
+    "prev_unlinked_now_linked" : "0",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2880"
+  },
+  {
+    "case_no_end" : "1983",
+    "case_no_start" : "1874",
+    "date" : "8\/24\/21",
+    "new_import_cases" : "3",
+    "new_local_cases" : "107",
+    "new_total_cases" : "110",
+    "new_unlinked_cases" : "46",
+    "prev_unlinked_now_linked" : "2",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2872"
+  },
+  {
+    "case_no_end" : "1873",
+    "case_no_start" : "1770",
+    "date" : "8\/23\/21",
+    "new_import_cases" : "0",
+    "new_local_cases" : "104",
+    "new_total_cases" : "104",
+    "new_unlinked_cases" : "70",
+    "prev_unlinked_now_linked" : "1",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2851"
+  },
+  {
+    "case_no_end" : "1769",
+    "case_no_start" : "1456",
+    "date" : "8\/22\/21",
+    "new_import_cases" : "6",
+    "new_local_cases" : "308",
+    "new_total_cases" : "314",
+    "new_unlinked_cases" : "141",
+    "prev_unlinked_now_linked" : "5",
+    "source_url" : "https:\/\/t.me\/govbnofficial\/2838"
+  },
+  {
     "case_no_end" : "1455",
     "case_no_start" : "1334",
     "date" : "8\/21\/21",

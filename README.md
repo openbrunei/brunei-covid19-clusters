@@ -31,8 +31,9 @@ Please also note that generally, total cluster sizes are referring to **cumulati
 1. `local_cases` CSV/JSON - Shows _daily_ total of _new_ local cases, i.e. community spread cases, not imported.
 2. `clusters` CSV/JSON - Shows _daily_ total of _new_ cases broken down by clusters, as identified and named by MOH Brunei. These will often exclude the first case of the cluster, if found on an earlier day.
 3. `new_cases_breakdown` CSV/JSON - Breakdown of daily case numbers into: total new, new import cases, new local cases, new unlinked cases, and previously unlinked cases that are newly linked to a cluster or another case.
-4. `new_linked` CSV/JSON - Shows on a daily basis, the cases that were previously unlinked, that on a particular date have been linked to a cluster or another case.
-5. MS Excel file (XLSX) containing the above data in separate sheets. The data is filterable in Excel.
+4. `clusters_totals` CSV/JSON - Shows cumulative sizes of clusters, sorted by cluster name.
+5. `new_linked` CSV/JSON - Shows on a daily basis, the cases that were previously unlinked, that on a particular date have been linked to a cluster or another case.
+6. MS Excel file (XLSX) containing the above data in separate sheets. The data is filterable in Excel.
 
 Note that new daily data is added to the top rows for each file and sheet.
 
