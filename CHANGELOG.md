@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog][1].
 
 ## [Unreleased]
 
+## [2021-08-25]
+### Added
+- New sheet "Clusters_Totals" in the Excel spreadsheet
+### Changed
+- Readme updated to address data discreprancies
+
 ## [2021-08-21]
 ### Added
 - New doc "Daily Charts: New cases in Brunei Covid-19 clusters"

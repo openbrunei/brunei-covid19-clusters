@@ -10,9 +10,19 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 The datasets provided here are unofficial. This is a data collection and sharing exercise by [Hazirah M][3].
 
-The data here relies on what is provided and understood from MOH’s data.
-
 Terms used are based on my understanding as a layman. To contact me regarding any grievous errors, see "Contact" below.
+
+The data here relies on what is provided and understood from MOH’s data. Please see an **important note on total cluster size discreprancies** below.
+
+### Discreprancies
+
+Generally, total sizes of clusters **cannot be verified with MOH data**, since MOH does not release total cluster sizes. So along with the following discreprancies, all numbers relating to cluster size in this project **may only be taken as estimates**.
+
+Please also note that generally, total cluster sizes are referring to **cumulative totals for each cluster, and not current active cases for each cluster**.
+
+* On 24 Aug 2021, MOH announced that day's total increase in cases linked to clusters but **did not specify the breakdown per cluster**. ([Situasi Jangkitan Covid-19 Di Negara Brunei Darussalam (24 Ogos 2021)](https://www.rtbgo.bn/play?scheme=205&p_type=true&id=3752&eps_id=3806), RTB GO, retrieved 25-Aug-2021)
+* On 21 Aug 2021, in announcing a new cluster 1385, it was not specified whether the cases related to it were existing or new case numbers. ([Siaran Akhbar Situasi Terkini COVID-19 di Negara Brunei Darussalam (21 Ogos 2021)](https://t.me/govbnofficial/2832))
+* On a specific date in August 2021, it may have been mentioned in the Question & Answer session with the media, that some previously unlinked cases may later be recategorised into existing clusters. It is also mentioned in the [footnotes](https://archive.ph/yGBU4) (archived version, retrieved 25-Aug-2021) of the Flourish public visualisation by Rayana M, [COVID-19 Brunei Daily Report](https://public.flourish.studio/visualisation/7014155/). ([Please contact me, with sources][4], if you have further info on this so that I can cite it more fully.)
 
 ## Contents
 
