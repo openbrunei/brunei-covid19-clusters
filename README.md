@@ -39,7 +39,9 @@ Note that new daily data is added to the top rows for each file and sheet.
 
 ### Charts
 
-1. **Daily Charts:** For each cluster and its daily number of new cases recorded, the numbers are displayed in a bar chart. Each bar represents one day’s numbers - it may be 0 in some cases.
+1. **Daily Charts:**  
+_[**NOTE:** Will **no longer be updated** after 27 Aug 2021]_  
+For each cluster and its daily number of new cases recorded, the numbers are displayed in a bar chart. Each bar represents one day’s numbers - it may be 0 in some cases.
 2. **Weekly Charts:**
 	- a) Daily new community cases, by week
 	- b) Weekly new community cases, by cluster
@@ -103,8 +105,8 @@ Instead, only information made available about **unlinked** cases **becoming lin
 Here’s the old description for this:
 
 > **unlinked** CSV/JSON - Shows _daily new_ unlinked case numbers, where MOH Brunei have not identified the source of the spread, i.e. neither imported nor connected to a known cluster or local case. More info:
-> - Once a case has been linked, its cluster name will be added to the row.
-> - Sometimes the unlinked case numbers are not provided, so in such cases, I will add my own numbering system in the format "?-001".
+> -- Once a case has been linked, its cluster name will be added to the row.
+> -- Sometimes the unlinked case numbers are not provided, so in such cases, I will add my own numbering system in the format "?-001".
 
 ## Credits
 

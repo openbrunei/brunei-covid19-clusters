@@ -1,4 +1,10 @@
-# Daily Charts: New cases in Brunei Covid-19 clusters, Wed 25 Aug 2021
+# Daily Charts: New cases in Brunei Covid-19 clusters, Fri 27 Aug 2021
+
+--◆ **Hello!**  The Daily Charts here will no longer be updated after 27 Aug 2021, as I did not find it sustainable to keep doing so in my own time. Also, part of me is itching to use a more automated way of generating charts, but I don't know if I'll find the time for that. Also check out the [Weekly Charts][7]. ◆--
+
+--◆ If you liked these charts, I always appreciate a comment or a share. Thanks for checking it out. Stay safe!  ◆--
+
+---
 
 For more info: [https://github.com/openbrunei/brunei-covid19-clusters#readme][1]
 
@@ -146,10 +152,15 @@ Cluster reported new cases only once, on 26 Aug 2021
 1st discovered case: No. 1888, 24 Aug 2021  
 Total: 11+1 (including 1st case)  
 
-### Cluster:  2085
+### Cluster: 2085
 Cluster reported new cases only once, on 26 Aug 2021  
 1st discovered case: No. 2085, 24 Aug 2021  
 Total: 8+1 (including 1st case)  
+
+### Cluster: 2262
+Cluster reported new cases only once, on 27 Aug 2021  
+1st discovered case: No. 2262, 26 Aug 2021  
+Total: 6+1 (including 1st case)  
 	
 ### Cluster: ABCi
 Dates: 9 to 25 Aug 2021	  
